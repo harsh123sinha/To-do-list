@@ -151,7 +151,7 @@ ul li span:hover{
   }
   @media screen and (max-width: 600px) {
     .todo{
-      margin-left: 5%;
+      margin-left: 17%;
       width :400px;
     height: 500px;
 
@@ -161,7 +161,7 @@ ul li span:hover{
   }
   @media screen and (max-width: 475px) {
     .todo{
-      margin-left: 2%;
+      margin-left: 7%;
       width :350px;
     height: 450px;
 
